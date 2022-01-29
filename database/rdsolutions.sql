@@ -1,0 +1,1 @@
+SELECT * from reserved_tables.crud_users;
